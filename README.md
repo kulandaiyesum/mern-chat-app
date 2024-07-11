@@ -40,7 +40,7 @@ Before running the application locally, make sure you have the following install
   JWT_SECRET=<your_secret_key>
   NODE_ENV=development
   ```
-  Replace <your_mongo_uri> with your actual MongoDB URI and <your_secret_key> with your JWT secret key.
+  Replace `<your_mongo_uri>` with your actual MongoDB URI and `<your_secret_key>` with your JWT secret key.
 
 ## Usage
 1. Start the backend server:
